@@ -1,20 +1,30 @@
-# Hi, I'm Danish Asghar 👋, <br>
-I'm a software development engineer with expertise in the MERN stack and AWS. I'm passionate about building web applications and using cloud technologies to solve real-world problems. In my free time, I enjoy contributing to open-source projects and writing technical articles.<br>
+<h1 align="center">Hey there! I'm Danish Asghar 👋 </h1>
+<h3 align="center">🚀 Software Engineer | Backend Developer | MERN Stack 🚀</h3>
+<div>
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<div align="left"> 
+  <h3> 👨🏻‍💻 About Me </h3>
 
-## Skills
-Languages: JavaScript, HTML, CSS, TypeScript<br>
-Frameworks: MERN (MongoDB, Express, React, Node.js)<br>
-AWS Services: EC2, S3, Lambda, ElasticBeanStalk, CodeCommit<br>
-Tools: Git, npm, Postman, VS Code
-## Work Experience
-Software Development Engineer <br>
-Developed and maintained web applications using the MERN stack and AWS <br>
-Collaborated with cross-functional teams to design and implement new features <br>
-Optimized application performance and scalability
+  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+  - 🎓 &nbsp; Studying Master Of Computer Application.
+  - 💼 &nbsp; I’m currently working as a Software Engineer.
+  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+</div> 
+</div>
 
-**Contact Me** 
-<br>
-LinkedIn: https://www.linkedin.com/in/danish-asghar-a897571a6/
-Email: danish.2909@icloud.com
-<br>
-### Thanks for reading!
+<div>
+  <h3> 💻 Languages and Tools </h3>
+  <p>
+   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
+   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50">
+   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
+   <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50">
+   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+   <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
+   <img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="70">
+  <p>
+</div> 
+
+⭐️ From [Danish](https://github.com/Danish-Asghar2909)
