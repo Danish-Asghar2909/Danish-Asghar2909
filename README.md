@@ -24,6 +24,13 @@
    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dtcHN6MHFlbmQ5NGpmbHU1dzAydmoxNGFrMW56ZzU2a2Y3MnNnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="70">
   <p>
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/danish-asghar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+</p>
 </div> 
 
 ⭐️ From [Danish](https://github.com/Danish-Asghar2909)
