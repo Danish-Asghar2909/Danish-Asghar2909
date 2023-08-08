@@ -29,7 +29,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/danish-asghar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/danish-asghar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Danish%20Asghar-blue?style=flat-square&logo=linkedin"></a>
 </p>
 </div> 
 
